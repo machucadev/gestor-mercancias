@@ -1,4 +1,3 @@
-¡Claro! Acá tenés nuevamente el contenido completo y actualizado de tu `README.md`, listo para copiar y pegar o guardar como archivo.
 
 ---
 
