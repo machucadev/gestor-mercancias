@@ -7,8 +7,7 @@
 # 🛒 Gestor de Mercancías - Supermercado
 
 Sistema de gestión de productos para un supermercado, desarrollado en **Python** con interfaz gráfica en **Flet**.  
-Permite registrar, actualizar y eliminar productos con control de stock y precios.
-
+Permite registrar, buscar, actualizar y eliminar productos, gestionando su stock y precios de forma eficiente.
 ---
 
 ## ✅ Funcionalidades principales
